@@ -65,58 +65,11 @@ A set of snippets including:
 |  Command--> app-use-spa                           |  
 |  Command--> appsettings                           |  
 
-|  Razor Snippets                                   |  
-|  Command--> Html-ActionLink                       |  
-|  Command--> Url-Action                            |  
-|  Command--> Html-Action                           |  
-|  Command--> Html-Partial                          |  
-|  Command--> Html-BeginForm                        |  
-|  Command--> Html-BeginForm-enctype                |  
-|  Command--> Html-AntiForgeryToken                 |  
-|  Command--> Html-Id                               |  
-|  Command--> Html-Name                             |  
-|  Command--> Html-Value                            |  
-|  Command--> Html-ValidationSummary                |  
-|  Command--> Html-DropDownList                     |  
-|  Command--> Html-ListBox                          |  
-|  Command--> Html-CheckBox                         |  
-|  Command--> Html-Label                            |  
-|  Command--> Html-TextBox                          |  
-|  Command--> Html-TextArea                         |  
-|  Command--> Html-Password                         |  
-|  Command--> Html-RadioButton                      |  
-|  Command--> Html-Hidden                           |  
-|  Command--> Html-IdFor                            |  
-|  Command--> Html-NameFor                          |  
-|  Command--> Html-ValueFor                         |  
-|  Command--> Html-ValidationSummaryFor             |  
-|  Command--> Html-DropDownListFor                  |  
-|  Command--> Html-ListBoxFor                       |  
-|  Command--> Html-CheckBoxFor                      |  
-|  Command--> Html-LabelFor                         |  
-|  Command--> Html-TextBoxFor                       |  
-|  Command--> Html-TextAreaFor                      |  
-|  Command--> Html-PasswordFor                      |  
-|  Command--> Html-RadioButtonFor                   |  
-|  Command--> Html-HiddenFor                        |  
-|  Command--> Html-DisplayName                      |  
-|  Command--> Html-Display                          |  
-|  Command--> Html-Editor                           |  
-|  Command--> Html-DisplayNameFor                   |  
-|  Command--> Html-DisplayFor                       |  
-|  Command--> Html-EditorFor                        |  
-|  Command--> Html-DisplayForModel                  |  
-|  Command--> Html-EditorForModel                   |  
-|  Command--> Razor-if                              |  
-|  Command--> Razor-foreach                         |  
-|  Command--> Razor-for                             |  
-|  Command--> Razor-ViewBag                         |  
-|  Command--> Razor-ViewData                        |  
-|  Command--> Razor-TempData                        |  
-|  Command--> Razor-model                           |  
-|  Command--> Razor-RenderSection                   |  
-|  Command--> Razor-section                         |  
 
+## Razor Snippets                                   
+
+As part of built in snippet bundle, razor is already supported by default in .cshtml pages. You just need to type starting @ and you will get all razor syntax with their usage.
+   
 
 
 ## Installation
